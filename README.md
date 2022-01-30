@@ -1,7 +1,7 @@
 # Starbucks
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/medcenter/blob/master/images/starbucks.png" alt="Site">
+<img src="https://github.com/luizfelipe9627/starbucks/blob/master/images/starbucks.png" alt="Site">
 
 ## 📄 Resumo
 Starbucks é um site de cafeterias na qual o intuito é mostrar para seus clientes o lançamento de novos sabores.
