@@ -4,7 +4,7 @@
 <img src="https://github.com/luizfelipe9627/starbucks/blob/master/images/starbucks.png" alt="Site">
 
 ## 📄 Resumo
-Starbucks é um site de cafeterias na qual o intuito é mostrar para seus clientes o lançamento de novos sabores.
+Starbucks é um site de cafeterias no qual o intuito é apresentar para seus clientes o lançamento de novos sabores.
 
 ## <a href="https://luizfelipe9627.github.io/starbucks">Acesse o site</a>
 
