@@ -297,6 +297,10 @@ footer a:hover {
     color: #117050;
 }
 
+/*
+    RESPONSIVIDADE DESKTOP ↴
+*/
+
 @media (min-width:769px ) and (max-width: 1440px) {
     .container {
     padding-left: 20px;
@@ -304,5 +308,82 @@ footer a:hover {
     }
 }
 
+/*
+    RESPONSIVIDADE SMARTPHONE ↴
+*/
+
+@media (min-width: 320px) and (max-width: 425px) {
+
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .header_menu {
+        margin-left: 20px;
+    }
+
+    .header_search input {
+        max-width: 130px;
+    }
+
+    h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .banner_images img {
+        width: 70px;
+        height: 70px;
+        border: 3px solid #117050;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+
+    .area1, .area2, .area3, .area4 {
+        grid-template-columns: 1fr;
+    }
+
+    .area3_img1 {
+        padding: 0;
+    }
+
+    .area1_content, .area2_content, .area3_content, .area4_content {
+        padding: 30px;
+    }
+
+    .area5 {
+        height: 200px;
+    }
+
+    footer {
+        font-size: 12px;
+        padding: 40px 20px;
+    }
+}
+
+/*
+    RESPONSIVIDADE TABLET ↴
+*/
+
+@media (min-width:426) and (max-width: 768px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+        }
+
+    .area1, .area3 {
+        grid-template-columns: 3fr 2fr;
+    }
+
+    .area2 {
+        grid-template-columns: 2fr 3fr;
+    }
+}
 
 
