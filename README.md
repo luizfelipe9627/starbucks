@@ -9,7 +9,7 @@ Finalmente chegou a hora de práticar CSS GRID, nesse projeto foi aplicado 100% 
 ## 📑 Observação
 Starbucks é um site de cafeterias no qual o intuito é apresentar para seus clientes o lançamento de novos sabores.
 
-## <a href="https://luizfelipe9627.github.io/starbucks">Acesse o site</a>
+### <a href="https://luizfelipe9627.github.io/starbucks">Acesse o site</a>
 
 ## 💻 Tecnologias utilizadas
 
