@@ -12,7 +12,7 @@ Starbucks é um site de cafeterias no qual o intuito é apresentar para seus cli
 Finalmente chegou a hora de práticar CSS GRID, nesse projeto foi aplicado 100% em CSS Grid ao contrário dos outros projetos que era usado muito Flexbox. E é claro para aprimorar o conhecimento o site está responsivo para todos dispositivos móveis.
 
 ## 🔍 Layout
-Este layout foi criado por NicePage.
+Este layout foi criado com NicePage.
 ### <a href="https://starbucks.nicepage.io/">Acesse o layout</a>
 
 ## 💻 Tecnologias utilizadas
