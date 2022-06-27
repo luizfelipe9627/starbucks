@@ -1,0 +1,59 @@
+body {
+  font-family: 'open sans', sans-serif;
+  margin: 0;
+}
+
+body::-webkit-scrollbar {
+  width: 0.625rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #FFF;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #117050;
+  height: 6.875rem;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif ;
+  font-size: 5.625rem;
+  font-weight: bold;
+  line-height: 5.625rem;
+  margin-bottom: 1.875rem;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif ;
+  font-weight: bold;
+  font-size: 2.1875rem;
+  line-height: 2.5rem;
+  margin: 1.25rem 0;
+}
+
+.button {
+  display: inline-block;
+  border: .125rem solid #454545;
+  padding: 0.625rem 1.875rem;
+  border-radius: .1875rem;
+  color: #454545;
+  text-decoration: none;
+}
+
+.button:hover {
+  color: #FFF;
+  background-color: #454545;
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  h1 {
+    font-size: 3.125rem;
+    line-height: 3.125rem;
+  }
+
+  h2 {
+    font-size: 1.5625rem;
+    line-height: 1.875rem;
+  }
+}
