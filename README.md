@@ -1,7 +1,7 @@
 # Starbucks
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/starbucks/blob/master/assets/video/starbucks.gif" alt="Site">
+<img src="https://github.com/luizfelipe9627/starbucks/blob/master/assets/video/starbucks.gif" alt="Apresentação do Starbucks">
 
 ## 📄 Descrição
 Starbucks é um site de cafeterias no qual o intuito é apresentar para seus clientes o lançamento de novos sabores.
@@ -9,7 +9,7 @@ Starbucks é um site de cafeterias no qual o intuito é apresentar para seus cli
 ### <a href="https://luizfelipe9627.github.io/starbucks">Acesse o site</a>
 
 ## 📑 Observação
-Finalmente chegou a hora de práticar CSS GRID, nesse projeto foi aplicado 100% em CSS Grid ao contrário dos outros projetos que era usado muito Flexbox. E é claro para aprimorar o conhecimento sobre Responsividade o site está responsivo para todos dispositivos móveis.
+Finalmente chegou a hora de praticar CSS GRID, nesse projeto foi aplicado 100% em CSS Grid ao contrário dos outros projetos que era usado muito Flexbox. E é claro para aprimorar o conhecimento sobre Responsividade o site está responsivo para todos dispositivos móveis.
 
 ## 🔍 Layout
 Este layout foi criado com NicePage.
