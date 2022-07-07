@@ -6,7 +6,7 @@
 ## 📄 Descrição
 Starbucks é um site de cafeterias no qual o intuito é apresentar para seus clientes o lançamento de novos sabores.
 
-### <a href="https://luizfelipe9627.github.io/starbucks">Acesse o site</a>
+### <a href="https://luizfelipe9627-starbucks.netlify.app">Acesse o site</a>
 
 ## 📑 Observação
 Finalmente chegou a hora de praticar CSS GRID, nesse projeto foi aplicado 100% em CSS Grid ao contrário dos outros projetos que era usado muito Flexbox. E é claro para aprimorar o conhecimento sobre Responsividade o site está responsivo para todos dispositivos móveis.
