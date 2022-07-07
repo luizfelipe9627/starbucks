@@ -42,7 +42,7 @@ header .line {
 
 .header-search input {
   font-size: 1rem;
-  padding: 0.5rem .9375rem;
+  padding: 0.5rem 0 0.5rem 0.9375rem;
   border: 0.0625rem solid #999999;
   outline: none;
   width: 100%;
@@ -52,7 +52,7 @@ header .line {
 .header-search button {
   border: 0;
   background-color: transparent;
-  margin-left: -2.1875rem;
+  margin: 0.5rem 0 0 -1.25rem;
   cursor: pointer;
 }
 
