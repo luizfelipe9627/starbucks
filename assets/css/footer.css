@@ -15,6 +15,10 @@ footer a:hover {
   color: #117050;
 }
 
+.created {
+  margin-bottom: 30px;
+}
+
 @media (min-width: 320px) and (max-width: 425px) {
   footer {
     font-size: 0.75rem;
