@@ -1,6 +1,5 @@
 .container {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  padding: 0 1.25rem;
 }
 
 .bar {
@@ -15,15 +14,15 @@ header .line {
 }
 
 .container {
-  max-width: 71.25rem;
+  max-width: 85vw;
   margin: auto;
 }
 
 .header-area {
   display: flex;
   justify-content: space-between;
-  height: 6.25rem;
   align-items: center;
+  height: 6.25rem;
 }
 
 .header-left img {
@@ -76,14 +75,11 @@ header .line {
     margin-left: 1.25rem;
   }
 
-  .header-search input {
-    max-width: 8.125rem;
+  .header-search img {
+    margin-left: -1.25rem;
   }
-}
 
-@media (min-width: 426px) and (max-width: 768px) {
-  .container {
-    padding-left: 1.25rem;
-    padding-right: 1.25rem;
+  .header-search input {
+    max-width: 45vw;
   }
 }

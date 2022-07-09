@@ -38,7 +38,7 @@ h2 {
 
 .button {
   display: inline-block;
-  border: .125rem solid #454545;
+  border: 0.125rem solid #454545;
   padding: 0.625rem 1.875rem;
   border-radius: .1875rem;
   color: #454545;
