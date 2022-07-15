@@ -51,7 +51,7 @@ header .line {
 .header-search button {
   border: 0;
   background-color: transparent;
-  margin: 0.5rem 0 0 -1.25rem;
+  margin: 0 0 0 -2.5rem;
   cursor: pointer;
 }
 
@@ -75,8 +75,8 @@ header .line {
     margin-left: 1.25rem;
   }
 
-  .header-search img {
-    margin-left: -1.25rem;
+  .header-search {
+    margin-right: 15px;
   }
 
   .header-search input {
